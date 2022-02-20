@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Validação de senha</title>
+</head>
+
+<body>
+
+    <form>
+        <h2>Validação de Senha</h2>
+
+        <div class="row">
+
+            <input type="password" name="password" id="password" minlength="6" maxlength="15" placeholder="informe a senha">
+            <img class="icon" src="assets/eye.svg" alt="">
+
+        </div>
+        <input type="button" value="Enviar" onclick="ValidarSenha()">
+
+        <div class="senhas">
+
+            <p id="SenhaForte"></p>
+            <p id="ErroSenha"></p>
+        </div>
+
+    </form>
+</body>
+<script src="main.js"></script>
+
+</html>
