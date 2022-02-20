@@ -21,3 +21,6 @@ Abrir o `index.html` em um navegador de sua preferência.
 
 Inserir uma senha para que seja validado, podendo ser `FRACA, MEDIA, FORTE e EXCELENTE`.
 
+Caso não possua uma IDE em sua máquina
+
+[visual studio code](https://code.visualstudio.com/) 
