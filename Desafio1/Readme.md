@@ -14,6 +14,7 @@ Abrir o `index.js`, no terminal de sua IDE rodar `node index.js`, nele irá apar
 
 Caso não possua o node instalado em sua máquina e uma IDE 
 [node](https://nodejs.org/en/) 
+
 [visual studio code](https://code.visualstudio.com/) 
 
 
